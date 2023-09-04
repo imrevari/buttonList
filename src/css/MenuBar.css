@@ -1,0 +1,16 @@
+
+.box .div:not(:first-child) {
+  margin-left: 10px;
+}
+
+.box .div:not(:last-child) {
+  margin-left: 10px;
+}
+
+.button {
+  width: 120px;
+}
+
+.line {
+  width: 96%
+}
